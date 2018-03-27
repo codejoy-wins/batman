@@ -1,0 +1,18 @@
+#wrapper{
+    background-color:black;
+    height:1000px;
+    margin:0 auto;
+}
+.ninja{
+    display:inline-block;
+    padding:10px;
+    
+}
+.ninja img{
+    width:447px;
+    /* background-color:blue; */
+    display:inline-block;
+    
+}
+/*https://images-na.ssl-images-amazon.com/images/I/61Yobtd1YUL._SL1000_.jpg*/
+/*"https://pre00.deviantart.net/64fe/th/pre/f/2016/178/a/9/the_dark_knight___transparent_by_asthonx1-da7t891.png"*/
